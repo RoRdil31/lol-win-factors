@@ -32,3 +32,6 @@ ALTER TABLE challenger_matches_2000
   MODIFY COLUMN teamEarlySurrendered       TINYINT(1) NOT NULL DEFAULT 0,
   MODIFY COLUMN win                        TINYINT(1) NOT NULL DEFAULT 0;
 
+# ===================================================================================
+
+SELECT 
